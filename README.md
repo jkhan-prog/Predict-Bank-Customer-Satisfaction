@@ -1,6 +1,6 @@
 # Santander-Customer-Satisfaction
 
-1. Proejct Synopsis - 
+1. Project Synopsis - 
 
  From frontline support teams to C-suites, customer satisfaction is a key measure of success. Unhappy customers don't stick around. What's more, unhappy customers rarely voice their dissatisfaction before leaving.
 
